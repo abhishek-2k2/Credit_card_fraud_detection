@@ -78,8 +78,7 @@ print('Accuracy score on Test Data:', test_data_accuracy)
 <h2 id="contributing">Contributing</h2>
 <p>Contributions are welcome! Please feel free to submit a Pull Request.</p>
 
-<h2 id="license">License</h2>
-<p>(Add your project license information here)</p>
+
 
 </body>
 </html>
