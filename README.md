@@ -7,7 +7,7 @@
 <body>
 
 <h1>Credit Card Fraud Detection</h1>
-<p>This project aims to detect fraudulent credit card transactions using machine learning techniques. The dataset used for this project can be found <a href="https://github.com/abhishek-2k2/Credit_card_fraud_detection/raw/main/your-dataset-file.csv" download>here</a>.</p>
+<p>This project aims to detect fraudulent credit card transactions using machine learning techniques. The dataset used for this project can be found <a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud" download>here</a>.</p>
 
 <h2>Table of Contents</h2>
 <ul>
@@ -17,7 +17,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#results">Results</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+  
 </ul>
 
 <h2 id="introduction">Introduction</h2>
@@ -25,12 +25,12 @@
 
 <h2 id="dataset">Dataset</h2>
 <p>The dataset used in this project is the Credit Card Fraud Detection dataset from Kaggle. It contains transactions made by credit cards in September 2013 by European cardholders. This dataset presents transactions that occurred in two days, with 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, with the positive class (frauds) accounting for 0.172% of all transactions.</p>
-<p>Dataset link: <a href="https://github.com/abhishek-2k2/Credit_card_fraud_detection/raw/main/your-dataset-file.csv" download>Credit Card Fraud Detection</a></p>
+<p>Dataset link: <a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud" download>Credit Card Fraud Detection</a></p>
 
 <h2 id="installation">Installation</h2>
 <p>Clone the repository:</p>
 <pre><code>
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
+git clone https://github.com/abhishek-2k2/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 </code></pre>
 <p>Install the required packages:</p>
